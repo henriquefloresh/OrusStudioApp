@@ -1,5 +1,6 @@
 SITE ORUS STUDIO
 
+Link do site: https://orus-studio-app.vercel.app/
 
 Links configurados:
 App Store: https://apps.apple.com/us/app/orus-studio/id6794074717
